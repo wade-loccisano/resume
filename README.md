@@ -7,32 +7,22 @@ Dynamic and results-oriented Software Developer with a proven track record of de
 
 Skills:
 
-Proficient in programming languages: Java, JavaScript, Python, C++
-Experienced in web development frameworks: React, Angular, Node.js
+Proficient in programming languages: JavaScript, TypeScript, C#
+Experienced in web development frameworks: React, Angular, NextJs
 Strong understanding of relational and NoSQL databases: MySQL, MongoDB
-Familiarity with version control systems: Git, SVN
-Knowledgeable in Agile development methodologies
+Familiarity with version control systems: Git
+Experienced with Agile development methodologies
 Excellent problem-solving and analytical skills
 
 ## Experience:
-Software Developer | MadeLabs LLC. | Month Year - Present
+Full Stack Software Developer | MadeLabs LLC. | April 2021 - Present
 
-Developed and maintained web applications using React.js and Node.js, resulting in improved user experience and increased client satisfaction.
+Developed and maintained web applications using React.js, resulting in improved user experience and increased client satisfaction.
 Collaborated with cross-functional teams to design and implement scalable software solutions, adhering to Agile development practices.
 Participated in code reviews and quality assurance processes to ensure code integrity and performance.
-Junior Software Engineer | DEF Software, City, State | Month Year - Month Year
-
-Contributed to the development of backend services using Java and Spring Boot framework, enhancing system performance and reliability.
-Assisted in troubleshooting and debugging software issues, providing timely resolutions to minimize downtime.
-Implemented unit tests and automated testing scripts to validate software functionality and identify defects early in the development lifecycle.
 
 ## Projects:
-E-commerce Website
-
-Led a team of developers in designing and implementing an e-commerce platform using React.js and Node.js, resulting in a 20% increase in online sales.
-Integrated third-party payment gateways and implemented secure authentication mechanisms to ensure data privacy and security.
-
-Personal Finance Tracker App
+Resume Site
 
 Developed a personal finance tracker application using Python and Django framework, allowing users to manage expenses and track financial goals.
 Implemented data visualization features using Chart.js to provide users with insightful analytics and reports.
@@ -41,8 +31,8 @@ Implemented data visualization features using Chart.js to provide users with ins
 AWS Certified Cloud Practitioner
 
 ### Education:
-Bachelor of Science in Computer Science
-XYZ University, City, State
+Web Application Development Bootcamp
+Tech Elevator, City, State
 Graduated: February 2021
 
 ### References:

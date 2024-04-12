@@ -1,5 +1,5 @@
 # Wade Loccisano
-[wade.loccisano@gmail.com] | [724-494-4379] | [linkedin.com/in/wade-loccisano] | [github.com/wade-loccisano] 
+[wade.loccisano@gmail.com] | [724-494-4379] | [linkedin.com/in/wade-loccisano](https://linkedin.com/in/wade-loccisano) | [github.com/wade-loccisano] 
 
 ## About:
 Dynamic and results-oriented Software Developer with experience in delivering high-quality web apps. Skilled in full-stack development, Agile methodologies, and continuous integration practices. Seeking to leverage expertise in software engineering to contribute to innovative projects in a collaborative team environment.

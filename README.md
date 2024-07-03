@@ -1,47 +1,68 @@
 # Wade Loccisano
 
-wade.loccisano@gmail.com | 724-494-4379 | [linkedin.com/in/wade-loccisano](https://linkedin.com/in/wade-loccisano) | [github.com/wade-loccisano](https://https://github.com/wade-loccisano)
+wade.loccisano@gmail.com | 724-494-4379 | [linkedin.com/in/wade-loccisano](https://linkedin.com/in/wade-loccisano)
 
-## About:
+<!-- ## About -->
 
-Dynamic action and results-oriented Software Developer with experience in delivering high-quality web apps for clients and customers on a global scale. Skilled in full-stack development, Agile methodologies, and continuous integration practices. Seeking to leverage expertise in software engineering to contribute to innovative projects in a highly collaborative and ever-evolving team environment.
+<!-- change to summary of experience -->
+Dynamic and results-oriented Software Developer with experience in delivering high-quality web apps for clients and customers on a global scale. Skilled in full-stack development, Agile methodologies, and continuous integration practices. Seeking to leverage expertise in software engineering to contribute to innovative projects in a highly collaborative and ever-evolving team environment.
 
-## Experience:
+## Skills
 
-### **Full-stack Software Developer** | MadeLabs LLC. | Remote, United States | *April 2021 - Present*
+### Front-end
+- HTML/CSS
+- JavaScript (ES6, React, Redux, Node.js, Next.js, JSX)
+- TypeScript (Next.js, TSX, Angular)
 
-- Collaborated with cross-functional teams to design and implement scalable software solutions, adhering to Agile development practices across multiple clients and customers.
-- Participated in code reviews and quality assurance processes to ensure code integrity and performance.
-- Adhered to the principles of continuous integration and delivery to successfully accomplish dynamic and responsive design goals.
+### Back-end
+- C# (.NET)
+- Python (Flask, Pandas)
+- ORM (Entity Framework, Prisma)
+- SQL (Postgresql)
 
-#### MadeLabs Company Website | MadeLabs LLC. | *January 2023 - Present*
+### DevOps
+- Cloud (AWS)
+- Version Control and CI/CD (Git, Docker)
+- Experienced with Agile development methodologies
+
+## Experience
+
+### **Full-stack Software Developer** | MadeLabs LLC. | Remote, United States | *April 2021 - March 2024*
+
+#### Website Development
+<!-- FrontEnd -->
 
 **Technologies:** JavaScript, Next.js, React.js, Docker, AWS Elastic Container Service, Tailwind CSS, Prisma ORM
+
 - Led the development and maintenance efforts for the MadeLabs company website, leveraging Next.js and React.js frameworks to deliver high-performance web applications and reusable components, increasing Lighthouse performance metrics by 20 basis points.
 - Optimized Docker configurations and facilitated deployments to the AWS Elastic Container Service, ensuring scalability and global accessibility of the website.
 - Tailored user-facing components to meet design and theming requirements, utilizing CSS and the Tailwind CSS framework to enhance visual appeal and usability.
 
-#### Point of Sale Data Integration | Tree of Life Canada | *September 2023 - December 2023*
+#### Point of Sale Data Integration
+<!-- DevOps -->
 
 **Technologies:** Python, AWS S3, AWS Step Functions, AWS Lambda, AWS Redshift
+
 - Spearheaded the end-to-end data migration and transformation process, leveraging AWS services including S3, Lambda, and Step Functions, to seamlessly integrate millions of point-of-sale data entries into centralized repositories.
 - Designed and implemented data pipelines to extract, transform, and load (ETL) raw data into Amazon Redshift, ensuring accuracy and consistency.
 - Developed custom Lambda functions to automate data processing tasks, optimizing efficiency and reducing manual intervention.
 - Implemented rule-based configurations and S3 triggers to orchestrate automated workflows, enabling real-time data updates and alerts.
 - Collaborated closely with cross-functional teams to translate business requirements into actionable data solutions, resulting in enhanced visibility and insights into sales performance.
 
-#### Fairview Project Management Tool | MadeLabs LLC. | *January 2023 - August 2023*
+#### Fairview Project Management Tool
+<!-- FrontEnd, BackEnd, DevOps -->
 
 **Technologies:** JavaScript, React.js, .NET, Entity Framework, Amazon Web Services
+
 - Worked on the development of the Fairview Project Management Tool at MadeLabs, orchestrating the implementation of project management interfaces and dashboards.
 - Designed and engineered intuitive user interfaces while leveraging npm packages for enhanced functionality, efficiency, and ease of use.
 - Provided a critical link between technology and user experience, ensuring seamless navigation and reporting for project stakeholders.
-- *[Fairview Project Management and Success](https://www.fairviewapp.com/)*
 
-
-#### Veryon Tracking | Veryon (formerly ATP Flightdocs) | *April 2021 - December 2022*
+#### ATP/Flightdocs Tracking
+<!-- FrontEnd, BackEnd, DevOps -->
 
 **Technologies:** TypeScript, Angular, .NET, Entity Framework, Amazon Web Services
+
 - Directed the integration and synchronization of data across customer identity, maintenance requests, and parts inventory systems, optimizing operational efficiency and data consistency.
 - Leveraged Swagger to generate REST APIs, facilitating seamless communication and interoperability between disparate systems and services.
 - Utilized a robust tech stack comprising TypeScript, Angular, and AngularJS, .NET to develop feature-rich, scalable applications that met the dynamic needs of the aviation industry.
@@ -65,7 +86,9 @@ Leveraged this site as a learning opportunity to improve my UI/UX, CI/CD, and pr
 
 ### Hobbies
 
-AWS Certified Cloud Practitioner
+Coding
+Miniature Painting
+Walking the dog
 
 ### Education:
 
@@ -73,20 +96,3 @@ Web Application Development Bootcamp
 Tech Elevator, National Live Remote, United States
 Graduated: February 2021
 
-## Skills:
-
-- HTML/CSS
-- JavaScript (ES6, React, Redux, Node.js, Next.js, JSX)
-- TypeScript (Next.js, TSX, Angular)
-- C# (.NET)
-- Python (Flask, Pandas)
-- ORM (Entity Framework, Prisma)
-- SQL (Postgresql)
-- Cloud (AWS)
-- Version Control and CI/CD (Git, Docker)
-- Experienced with Agile development methodologies
-- Excellent problem-solving and analytical skills
-
-<!-- ### References:
-
-Available upon request. -->

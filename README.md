@@ -4,8 +4,7 @@ wade.loccisano@gmail.com | 724-494-4379 | [linkedin.com/in/wade-loccisano](https
 
 <!-- ## About -->
 
-<!-- change to summary of experience -->
-Dynamic and results-oriented Software Developer with experience in delivering high-quality web apps for clients and customers on a global scale. Skilled in full-stack development, Agile methodologies, and continuous integration practices. Seeking to leverage expertise in software engineering to contribute to innovative projects in a highly collaborative and ever-evolving team environment.
+Software Developer with experience in full-stack development, cloud architecture, and continuous integration practices. Seeking to leverage expertise in software engineering to contribute to innovative projects in a highly collaborative and ever-evolving team environment.
 
 ## Skills
 
@@ -16,23 +15,22 @@ Dynamic and results-oriented Software Developer with experience in delivering hi
 
 ### Back-end
 - C# (.NET)
-- Python (Flask, Pandas)
 - ORM (Entity Framework, Prisma)
 - SQL (Postgresql)
 
 ### DevOps
-- Cloud (AWS)
-- Version Control and CI/CD (Git, Docker)
-- Experienced with Agile development methodologies
+- Cloud (AWS EC2, Lambda)
+- Python (Flask, Pandas)
+- CI/CD (Git, Docker)
 
 ## Experience
 
 ### **Full-stack Software Developer** | MadeLabs LLC. | Remote, United States | *April 2021 - March 2024*
 
-#### Website Development
+#### Business Website Development
 <!-- FrontEnd -->
 
-**Technologies:** JavaScript, Next.js, React.js, Docker, AWS Elastic Container Service, Tailwind CSS, Prisma ORM
+<!-- **Technologies:** JavaScript, Next.js, React.js, Docker, AWS Elastic Container Service, Tailwind CSS, Prisma ORM -->
 
 - Led the development and maintenance efforts for the MadeLabs company website, leveraging Next.js and React.js frameworks to deliver high-performance web applications and reusable components, increasing Lighthouse performance metrics by 20 basis points.
 - Optimized Docker configurations and facilitated deployments to the AWS Elastic Container Service, ensuring scalability and global accessibility of the website.
@@ -41,7 +39,7 @@ Dynamic and results-oriented Software Developer with experience in delivering hi
 #### Point of Sale Data Integration
 <!-- DevOps -->
 
-**Technologies:** Python, AWS S3, AWS Step Functions, AWS Lambda, AWS Redshift
+<!-- **Technologies:** Python, AWS S3, AWS Step Functions, AWS Lambda, AWS Redshift -->
 
 - Spearheaded the end-to-end data migration and transformation process, leveraging AWS services including S3, Lambda, and Step Functions, to seamlessly integrate millions of point-of-sale data entries into centralized repositories.
 - Designed and implemented data pipelines to extract, transform, and load (ETL) raw data into Amazon Redshift, ensuring accuracy and consistency.
@@ -52,7 +50,7 @@ Dynamic and results-oriented Software Developer with experience in delivering hi
 #### Fairview Project Management Tool
 <!-- FrontEnd, BackEnd, DevOps -->
 
-**Technologies:** JavaScript, React.js, .NET, Entity Framework, Amazon Web Services
+<!-- **Technologies:** JavaScript, React.js, .NET, Entity Framework, Amazon Web Services -->
 
 - Worked on the development of the Fairview Project Management Tool at MadeLabs, orchestrating the implementation of project management interfaces and dashboards.
 - Designed and engineered intuitive user interfaces while leveraging npm packages for enhanced functionality, efficiency, and ease of use.
@@ -61,7 +59,7 @@ Dynamic and results-oriented Software Developer with experience in delivering hi
 #### ATP/Flightdocs Tracking
 <!-- FrontEnd, BackEnd, DevOps -->
 
-**Technologies:** TypeScript, Angular, .NET, Entity Framework, Amazon Web Services
+<!-- **Technologies:** TypeScript, Angular, .NET, Entity Framework, Amazon Web Services -->
 
 - Directed the integration and synchronization of data across customer identity, maintenance requests, and parts inventory systems, optimizing operational efficiency and data consistency.
 - Leveraged Swagger to generate REST APIs, facilitating seamless communication and interoperability between disparate systems and services.
@@ -76,9 +74,9 @@ AWS Certified Cloud Practitioner
 
 ## Projects
 
-### Resume Site
+### Resume Hosting
 
-Developed a personal website to host my resume using Next.js.
+Developed a website to host my resume using Next.js.
 Added Docker containerization to allow easy collaboration and deployment across a variety of systems and services.
 Leveraged this site as a learning opportunity to improve my UI/UX, CI/CD, and project management skillsets.
 
@@ -86,7 +84,6 @@ Leveraged this site as a learning opportunity to improve my UI/UX, CI/CD, and pr
 
 ### Hobbies
 
-Coding
 Miniature Painting
 Walking the dog
 

@@ -4,14 +4,15 @@ wade.loccisano@gmail.com | 724-494-4379 | [linkedin.com/in/wade-loccisano](https
 
 <!-- ## About -->
 
-Software Developer with experience in full-stack development, cloud architecture, and continuous integration practices. Seeking to leverage expertise in software engineering to contribute to innovative projects in a highly collaborative and ever-evolving team environment.
+Software Developer with experience in full-stack development, cloud architecture, and continuous integration practices. Experienced in building websites and applications that have empowered users across a variety of
+industries including aviation, commerce, and project planning. 
 
 ## Skills
 
 ### Front-end
 - HTML/CSS
-- JavaScript (ES6, React, Redux, Node.js, Next.js, JSX)
-- TypeScript (Next.js, TSX, Angular)
+- JavaScript (React, Redux, Node.js)
+- TypeScript (Next.js, Angular)
 
 ### Back-end
 - C# (.NET)
@@ -32,29 +33,31 @@ Software Developer with experience in full-stack development, cloud architecture
 
 <!-- **Technologies:** JavaScript, Next.js, React.js, Docker, AWS Elastic Container Service, Tailwind CSS, Prisma ORM -->
 
-- Led the development and maintenance efforts for the MadeLabs company website, leveraging Next.js and React.js frameworks to deliver high-performance web applications and reusable components, increasing Lighthouse performance metrics by 20 basis points.
-- Optimized Docker configurations and facilitated deployments to the AWS Elastic Container Service, ensuring scalability and global accessibility of the website.
-- Tailored user-facing components to meet design and theming requirements, utilizing CSS and the Tailwind CSS framework to enhance visual appeal and usability.
+- Developed performant and reusable React components in the Next.js framework.
+- Delivered new features using Prisma ORM as to assist with database management. 
+- Tailored user-facing components to meet design and theming requirements with Tailwind CSS.
 
 #### Point of Sale Data Integration
 <!-- DevOps -->
 
-<!-- **Technologies:** Python, AWS S3, AWS Step Functions, AWS Lambda, AWS Redshift -->
+<!-- **Technologies:** Python, AWS S3, AWS Step Functions, AWS Lambda, AWS Redshift, Terraform -->
 
-- Spearheaded the end-to-end data migration and transformation process, leveraging AWS services including S3, Lambda, and Step Functions, to seamlessly integrate millions of point-of-sale data entries into centralized repositories.
-- Designed and implemented data pipelines to extract, transform, and load (ETL) raw data into Amazon Redshift, ensuring accuracy and consistency.
-- Developed custom Lambda functions to automate data processing tasks, optimizing efficiency and reducing manual intervention.
-- Implemented rule-based configurations and S3 triggers to orchestrate automated workflows, enabling real-time data updates and alerts.
-- Collaborated closely with cross-functional teams to translate business requirements into actionable data solutions, resulting in enhanced visibility and insights into sales performance.
+- Created an automated, cloud-based workflow to extract, transfer, and load point of sales data into Amazon
+Redshift for use in driving dashboards resulting in enhanced visibility and insights into sales performance.
+- Used Python scripts powered by AWS Lambda and orchestrated by Amazon Step Functions to retrieve data from
+FTP sources and move it to Amazon S3.
+- Expanded Terraform configurations to include the neccessary delcarations to manage this new infrastructure. 
 
-#### Fairview Project Management Tool
+#### Project Management Tool
 <!-- FrontEnd, BackEnd, DevOps -->
 
 <!-- **Technologies:** JavaScript, React.js, .NET, Entity Framework, Amazon Web Services -->
 
-- Worked on the development of the Fairview Project Management Tool at MadeLabs, orchestrating the implementation of project management interfaces and dashboards.
-- Designed and engineered intuitive user interfaces while leveraging npm packages for enhanced functionality, efficiency, and ease of use.
-- Provided a critical link between technology and user experience, ensuring seamless navigation and reporting for project stakeholders.
+- Developed features to support a project management web application leveraging React and .NET to assist
+teams in organization, tracking, and execution of new projects.
+- Created reusable web components to provide users with graphs and charts related to the project.
+- Used Entity Framework to simplify the interactions between the API and SQL database.
+- Ensured secure authentication and authorization to the application with Amazon Cognito user pools.
 
 #### ATP/Flightdocs Tracking
 <!-- FrontEnd, BackEnd, DevOps -->
@@ -66,7 +69,6 @@ Software Developer with experience in full-stack development, cloud architecture
 - Utilized a robust tech stack comprising TypeScript, Angular, and AngularJS, .NET to develop feature-rich, scalable applications that met the dynamic needs of the aviation industry.
 - Played a pivotal role in enhancing user authorization, authentication, and permissions, providing customers and administrators with the functionality to make informed decisions and drive operational excellence.
 
-
 ## Certifications
 
 AWS Certified Cloud Practitioner
@@ -74,11 +76,9 @@ AWS Certified Cloud Practitioner
 
 ## Projects
 
-### Resume Hosting
+### Resume to Website Pipeline
 
-Developed a website to host my resume using Next.js.
-Added Docker containerization to allow easy collaboration and deployment across a variety of systems and services.
-Leveraged this site as a learning opportunity to improve my UI/UX, CI/CD, and project management skillsets.
+Delveloped this website to deploy a markdown copy of my resume to a website.
 
 ## Misc
 
@@ -93,3 +93,6 @@ Web Application Development Bootcamp
 Tech Elevator, National Live Remote, United States
 Graduated: February 2021
 
+Bachelor of Economics
+Penn State, United States
+Graduated: Spring 2016

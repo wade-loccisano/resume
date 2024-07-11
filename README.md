@@ -4,8 +4,7 @@ wade.loccisano@gmail.com | 724-494-4379 | [linkedin.com/in/wade-loccisano](https
 
 <!-- ## About -->
 
-Software Developer with experience in full-stack development, cloud architecture, and continuous integration practices. Experienced in building websites and applications that have empowered users across a variety of
-industries including aviation, commerce, and project planning. 
+Software Developer with experience in full-stack development, cloud architecture, and continuous integration practices. Experienced in building websites and applications that have empowered users across a variety of industries including aviation, commerce, and project planning. 
 
 ## Skills
 
@@ -44,8 +43,7 @@ industries including aviation, commerce, and project planning.
 
 - Created an automated, cloud-based workflow to extract, transfer, and load point of sales data into Amazon
 Redshift for use in driving dashboards resulting in enhanced visibility and insights into sales performance.
-- Used Python scripts powered by AWS Lambda and orchestrated by Amazon Step Functions to retrieve data from
-FTP sources and move it to Amazon S3.
+- Used Python scripts powered by AWS Lambda and orchestrated by Amazon Step Functions to retrieve data from FTP sources and move it to Amazon S3.
 - Expanded Terraform configurations to include the neccessary delcarations to manage this new infrastructure. 
 
 #### Project Management Tool
@@ -59,7 +57,7 @@ teams in organization, tracking, and execution of new projects.
 - Used Entity Framework to simplify the interactions between the API and SQL database.
 - Ensured secure authentication and authorization to the application with Amazon Cognito user pools.
 
-#### ATP/Flightdocs Tracking
+#### Aviation User and Maintenance Tracking
 <!-- FrontEnd, BackEnd, DevOps -->
 
 <!-- **Technologies:** TypeScript, Angular, .NET, Entity Framework, Amazon Web Services -->
@@ -82,11 +80,6 @@ Delveloped this website to deploy a markdown copy of my resume to a website.
 
 ## Misc
 
-### Hobbies
-
-Miniature Painting
-Walking the dog
-
 ### Education:
 
 Web Application Development Bootcamp
@@ -96,3 +89,8 @@ Graduated: February 2021
 Bachelor of Economics
 Penn State, United States
 Graduated: Spring 2016
+
+### Hobbies
+
+Miniature Painting
+Walking the dog

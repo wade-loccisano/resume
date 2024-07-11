@@ -4,7 +4,7 @@ wade.loccisano@gmail.com | 724-494-4379 | [linkedin.com/in/wade-loccisano](https
 
 <!-- ## About -->
 
-Software Developer with experience in full-stack development, cloud architecture, and continuous integration practices. Experienced in building websites and applications that have empowered users across a variety of industries including aviation, commerce, and project planning. 
+Software Engineer with experience in full-stack development, cloud architecture, and continuous integration practices. Experienced in building websites and applications that have empowered users across a variety of industries including aviation, commerce, and project planning. Actively working with Cloud platforms and services to deliver tomorrow's technology solutions, today.
 
 ## Skills
 
@@ -44,7 +44,7 @@ Software Developer with experience in full-stack development, cloud architecture
 - Created an automated, cloud-based workflow to extract, transfer, and load point of sales data into Amazon
 Redshift for use in driving dashboards resulting in enhanced visibility and insights into sales performance.
 - Used Python scripts powered by AWS Lambda and orchestrated by Amazon Step Functions to retrieve data from FTP sources and move it to Amazon S3.
-- Expanded Terraform configurations to include the neccessary delcarations to manage this new infrastructure. 
+- Expanded Terraform configurations to include the neccessary delcarations to manage new infrastructure. 
 
 #### Project Management Tool
 <!-- FrontEnd, BackEnd, DevOps -->
@@ -64,7 +64,7 @@ teams in organization, tracking, and execution of new projects.
 
 - Directed the integration and synchronization of data across customer identity, maintenance requests, and parts inventory systems, optimizing operational efficiency and data consistency.
 - Leveraged Swagger to generate REST APIs, facilitating seamless communication and interoperability between disparate systems and services.
-- Utilized a robust tech stack comprising TypeScript, Angular, and AngularJS, .NET to develop feature-rich, scalable applications that met the dynamic needs of the aviation industry.
+- Utilized a robust tech stack comprising TypeScript, Angular 12, .NET, and Postgresql to develop feature-rich, scalable applications that met the needs of the aviation industry.
 - Played a pivotal role in enhancing user authorization, authentication, and permissions, providing customers and administrators with the functionality to make informed decisions and drive operational excellence.
 
 ## Certifications
@@ -76,7 +76,7 @@ AWS Certified Cloud Practitioner
 
 ### Resume to Website Pipeline
 
-Delveloped this website to deploy a markdown copy of my resume to a website.
+Developed this website to host a markdown copy of my resume.
 
 ## Misc
 
@@ -92,5 +92,5 @@ Graduated: Spring 2016
 
 ### Hobbies
 
-Miniature Painting
+Painting miniatures
 Walking the dog
